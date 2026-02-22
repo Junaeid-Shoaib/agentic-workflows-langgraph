@@ -1,0 +1,30 @@
+# Virtual Environment
+myenv/
+.venv/
+venv/
+
+# Environment Variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Model Weights
+*.pt
+*.bin
+*.ckpt
